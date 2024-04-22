@@ -1,2 +1,3 @@
-# kodluyoruzrepo
-Kodluyoruz Swift Eğitimi Kapsamında GIT Adı Altında Açtığım Repo
+# Kodluyoruz Repo
+[Kodluyoruz](https://www.kodluyoruz.org/) programında Swift alanında almış olduğum eğitimde yaptığım repo.
+
